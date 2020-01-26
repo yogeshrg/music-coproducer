@@ -316,3 +316,4 @@
 ## 2020-01-23 22:44:58 - feat(docs): add docs support
 ## 2020-01-25 17:24:29 - feat(log): implement log feature (6/20)
 ## 2020-01-26 12:36:26 - feat(cache): add cache support (8/20)
+## 2020-01-26 15:17:40 - feat(api): add api support (19/20)

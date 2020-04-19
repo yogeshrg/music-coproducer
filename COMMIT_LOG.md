@@ -163,3 +163,4 @@
 ## 2020-02-22 09:19:42 - feat(security): implement security module (16/20)
 ## 2020-03-14 19:27:25 - feat(build): create build handler (14/20)
 ## 2020-03-21 19:47:35 - feat(worker): implement worker feature (11/20)
+## 2020-04-19 14:34:28 - feat(api): implement api module (16/20)

@@ -322,3 +322,4 @@
 ## 2020-03-21 19:47:35 - feat(worker): implement worker feature (11/20)
 ## 2020-04-19 14:34:28 - feat(api): implement api module (16/20)
 ## 2020-05-23 14:27:12 - feat(data): add data support (9/20)
+## 2020-05-29 13:25:42 - feat(docs): implement docs module

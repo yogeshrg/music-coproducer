@@ -10,3 +10,4 @@
 ## 2020-05-23 14:27:12 - feat(data): add data support (9/20)
 ## 2020-05-29 13:25:42 - feat(docs): implement docs module
 ## 2020-05-31 10:35:14 - feat(data): add data endpoint (20/20)
+## 2020-05-31 18:23:44 - feat(security): create security handler (6/20)

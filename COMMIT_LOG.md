@@ -16,3 +16,4 @@
 ## 2020-07-11 13:46:30 - feat(queue): implement queue feature (11/20)
 ## 2020-08-16 19:37:15 - feat(alert): add alert endpoint (12/20)
 ## 2020-08-23 20:09:45 - feat(cache): implement cache module (14/20)
+## 2020-09-06 11:22:41 - feat(auth): implement auth feature (1/20)

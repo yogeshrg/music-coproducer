@@ -332,3 +332,4 @@
 ## 2020-08-23 20:09:45 - feat(cache): implement cache module (14/20)
 ## 2020-09-06 11:22:41 - feat(auth): implement auth feature (1/20)
 ## 2020-09-12 12:48:04 - feat(security): create security handler (10/20)
+## 2020-09-19 22:12:17 - feat(api): create api handler (1/20)

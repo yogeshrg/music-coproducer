@@ -178,3 +178,4 @@
 ## 2020-09-19 22:12:17 - feat(api): create api handler (1/20)
 ## 2020-10-05 22:52:15 - feat(data): implement data feature
 ## 2020-10-18 21:32:56 - feat(build): implement build module (6/20)
+## 2020-10-24 17:03:16 - feat(ui): implement ui feature (12/20)

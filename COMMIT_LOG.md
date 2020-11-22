@@ -179,3 +179,4 @@
 ## 2020-10-05 22:52:15 - feat(data): implement data feature
 ## 2020-10-18 21:32:56 - feat(build): implement build module (6/20)
 ## 2020-10-24 17:03:16 - feat(ui): implement ui feature (12/20)
+## 2020-11-22 13:05:18 - feat(alert): implement alert feature (8/20)

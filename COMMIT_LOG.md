@@ -338,3 +338,4 @@
 ## 2020-10-24 17:03:16 - feat(ui): implement ui feature (12/20)
 ## 2020-11-22 13:05:18 - feat(alert): implement alert feature (8/20)
 ## 2021-01-02 23:58:37 - feat(config): implement config feature (19/20)
+## 2021-01-10 21:18:04 - feat(ui): implement ui feature (2/20)

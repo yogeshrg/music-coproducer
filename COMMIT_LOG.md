@@ -341,3 +341,4 @@
 ## 2021-01-10 21:18:04 - feat(ui): implement ui feature (2/20)
 ## 2021-01-30 10:16:45 - feat(docs): implement docs feature (11/20)
 ## 2021-02-14 17:20:45 - feat(security): add security endpoint (2/20)
+## 2021-02-19 22:28:57 - feat(ui): create ui handler

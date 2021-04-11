@@ -28,3 +28,4 @@
 ## 2021-01-30 10:16:45 - feat(docs): implement docs feature (11/20)
 ## 2021-02-14 17:20:45 - feat(security): add security endpoint (2/20)
 ## 2021-02-19 22:28:57 - feat(ui): create ui handler
+## 2021-04-11 21:17:31 - feat(build): add build support (9/20)

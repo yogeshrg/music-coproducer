@@ -345,3 +345,4 @@
 ## 2021-04-11 21:17:31 - feat(build): add build support (9/20)
 ## 2021-05-02 17:00:19 - feat(test): add test support (15/20)
 ## 2021-05-08 16:58:02 - feat(worker): add worker endpoint (18/20)
+## 2021-05-15 09:13:59 - feat(monitor): add monitor endpoint (8/20)

@@ -192,3 +192,4 @@
 ## 2021-06-05 18:49:13 - feat(config): add config endpoint (13/20)
 ## 2021-07-04 23:58:30 - feat(alert): add alert support (19/20)
 ## 2021-07-10 19:18:41 - feat(worker): add worker endpoint (20/20)
+## 2021-07-10 23:35:58 - feat(metric): create metric handler (19/20)

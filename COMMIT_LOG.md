@@ -193,3 +193,4 @@
 ## 2021-07-04 23:58:30 - feat(alert): add alert support (19/20)
 ## 2021-07-10 19:18:41 - feat(worker): add worker endpoint (20/20)
 ## 2021-07-10 23:35:58 - feat(metric): create metric handler (19/20)
+## 2021-07-18 20:08:16 - feat(queue): implement queue feature (1/20)

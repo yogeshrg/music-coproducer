@@ -198,3 +198,4 @@
 ## 2021-09-18 17:03:13 - feat(test): implement test feature (18/20)
 ## 2021-09-19 17:01:55 - feat(test): implement test module (19/20)
 ## 2021-09-26 20:11:05 - feat(deploy): add deploy endpoint (15/20)
+## 2021-10-02 22:49:13 - feat(api): create api handler (14/20)

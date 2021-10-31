@@ -46,3 +46,4 @@
 ## 2021-10-07 15:27:36 - feat(test): add test endpoint
 ## 2021-10-10 20:48:02 - feat(model): add model endpoint (12/20)
 ## 2021-10-17 21:37:07 - feat(queue): create queue handler (20/20)
+## 2021-10-31 14:19:33 - feat(core): add core endpoint (11/20)

@@ -206,3 +206,4 @@
 ## 2021-10-31 14:19:33 - feat(core): add core endpoint (11/20)
 ## 2021-11-07 18:42:39 - feat(ci): create ci handler (15/20)
 ## 2021-11-14 11:19:24 - feat(infra): create infra handler (16/20)
+## 2021-12-01 15:16:42 - feat(ui): implement ui feature

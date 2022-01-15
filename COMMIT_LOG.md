@@ -208,3 +208,4 @@
 ## 2021-11-14 11:19:24 - feat(infra): create infra handler (16/20)
 ## 2021-12-01 15:16:42 - feat(ui): implement ui feature
 ## 2021-12-11 19:40:51 - feat(cache): add cache support (11/20)
+## 2022-01-15 20:35:14 - feat(build): add build support (13/20)

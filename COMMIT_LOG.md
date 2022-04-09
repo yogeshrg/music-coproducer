@@ -369,3 +369,4 @@
 ## 2022-02-23 14:01:10 - feat(worker): add worker support
 ## 2022-03-12 14:24:39 - feat(queue): implement queue module (13/20)
 ## 2022-04-09 09:46:12 - feat(db): create db handler (20/20)
+## 2022-04-09 10:14:10 - feat(model): implement model module (12/20)

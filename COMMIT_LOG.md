@@ -214,3 +214,4 @@
 ## 2022-04-09 09:46:12 - feat(db): create db handler (20/20)
 ## 2022-04-09 10:14:10 - feat(model): implement model module (12/20)
 ## 2022-05-12 09:40:53 - feat(test): implement test feature
+## 2022-05-24 13:15:20 - feat(model): implement model feature

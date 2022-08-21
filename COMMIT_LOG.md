@@ -218,3 +218,4 @@
 ## 2022-05-29 21:48:51 - feat(auth): implement auth module (12/20)
 ## 2022-06-11 19:50:52 - feat(core): implement core feature (4/20)
 ## 2022-07-03 15:25:23 - feat(config): implement config feature (6/20)
+## 2022-08-21 21:45:54 - feat(core): add core support (13/20)

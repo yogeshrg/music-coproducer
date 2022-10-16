@@ -222,3 +222,4 @@
 ## 2022-08-27 22:08:48 - feat(ui): add ui support (19/20)
 ## 2022-10-01 17:49:42 - feat(auth): implement auth feature (18/20)
 ## 2022-10-09 22:38:43 - feat(metric): add metric support (15/20)
+## 2022-10-16 23:01:16 - feat(worker): add worker support (18/20)

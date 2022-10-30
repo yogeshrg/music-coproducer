@@ -224,3 +224,4 @@
 ## 2022-10-09 22:38:43 - feat(metric): add metric support (15/20)
 ## 2022-10-16 23:01:16 - feat(worker): add worker support (18/20)
 ## 2022-10-16 23:44:31 - feat(metric): create metric handler (5/20)
+## 2022-10-30 12:02:44 - feat(log): create log handler (10/20)

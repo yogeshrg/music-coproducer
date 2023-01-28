@@ -69,3 +69,4 @@
 ## 2022-10-16 23:44:31 - feat(metric): create metric handler (5/20)
 ## 2022-10-30 12:02:44 - feat(log): create log handler (10/20)
 ## 2022-12-18 18:12:21 - feat(infra): add infra endpoint (19/20)
+## 2023-01-28 21:02:13 - feat(cache): implement cache module (3/20)

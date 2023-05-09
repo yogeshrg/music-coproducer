@@ -393,3 +393,4 @@
 ## 2023-03-25 23:45:51 - feat(db): implement db module (17/20)
 ## 2023-04-15 18:36:30 - feat(monitor): add monitor endpoint (4/20)
 ## 2023-05-07 22:52:09 - feat(core): add core endpoint (7/20)
+## 2023-05-09 13:23:35 - feat(api): implement api module

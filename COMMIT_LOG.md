@@ -89,3 +89,4 @@
 ## 2023-11-11 22:31:09 - feat(metric): add metric endpoint (12/20)
 ## 2023-11-12 19:52:58 - feat(db): add db support (10/20)
 ## 2023-12-09 23:46:54 - feat(docs): add docs endpoint (6/20)
+## 2024-01-06 23:51:01 - feat(ci): implement ci feature (3/20)

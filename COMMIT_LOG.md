@@ -96,3 +96,4 @@
 ## 2024-02-24 12:58:36 - feat(test): implement test feature (10/20)
 ## 2024-03-16 11:31:29 - feat(ui): add ui endpoint (2/20)
 ## 2024-03-23 23:13:27 - feat(metric): implement metric module (4/20)
+## 2024-03-24 12:59:35 - feat(cache): add cache endpoint (7/20)

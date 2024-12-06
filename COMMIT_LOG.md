@@ -109,3 +109,4 @@
 ## 2024-10-26 17:36:37 - feat(cache): add cache endpoint (2/20)
 ## 2024-11-02 11:23:29 - feat(worker): create worker handler (2/20)
 ## 2024-11-09 23:26:29 - feat(api): implement api feature (7/20)
+## 2024-12-06 21:04:20 - feat(monitor): add monitor endpoint

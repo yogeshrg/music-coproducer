@@ -449,3 +449,4 @@
 ## 2025-10-19 11:37:05 - feat(cache): create cache handler (14/20)
 ## 2025-10-26 15:31:54 - feat(docs): create docs handler (14/20)
 ## 2025-11-15 09:55:41 - feat(api): add api support (3/20)
+## 2025-11-23 09:18:05 - feat(monitor): add monitor support (2/20)
